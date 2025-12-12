@@ -50,3 +50,10 @@ listes essentielles :
 - Un remue-méninge sur quoi le jeu serait.
 - Voir la mode des jeux vidéos.
 - Discutter des prix
+
+production
+listes essentielles : 
+- faire une campagne d'employament
+- commencer par l'univers 3D.
+                 - Modélisé les personnages, armes etc. le monde en soi.
+               
