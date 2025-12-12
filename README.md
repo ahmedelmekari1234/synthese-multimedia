@@ -2,12 +2,12 @@
 
 ## présentation proposition
 
- ### Phrase choc : Dernier objectif. vivre en paix.
+ ### Phrase choc : Premier à la couronne. 
 
   
  ### Analyse de besoins
  
- 1. Le public ciblé est un joueur qui est un amateur de jeu de type comme Dark souls (les jeux compliqués)
+ 1. Le public ciblé est un joueur qui est un amateur de jeu de type comme Dark souls (les jeux compliqués), cependant il y a une section qui peut être pour les joeurs casuels en étant dans un mode d'exploration non-difficile.
 
  2. Ce qui est important pour les joueurs est le fait d'avoir le plaisir d'avoir accompli les monstres durent. 
 
@@ -34,7 +34,9 @@
 
 *CHOIX TECHNOLOGIQUES*
 
-les choix technologiques ne sont pas si restraintes. Cross plateform.
+les choix technologiques ne sont pas si restraintes. Cross plateform. 
+
+Il faut avoir des bons pcs ou console new gen pour jouer. En temps que programmeur, un choix vers la motion 3D et le rendering pour bien coder.
 
 *CONCEPT RÉPONDANT AUX ATTENTES DU PUBLIC-CIBLE.*
 
@@ -50,10 +52,34 @@ listes essentielles :
 - Un remue-méninge sur quoi le jeu serait.
 - Voir la mode des jeux vidéos.
 - Discutter des prix
+- casting de star (optional)
+- Faire des concept arts pour la section 2D. Le jeu dans l'interface.
+- le fil de l'Histoire doit être écrit.
+- penser aux dialogues
 
 production
 listes essentielles : 
+- Faire des groupes pour séparés 
 - faire une campagne d'employament
-- commencer par l'univers 3D.
-                 - Modélisé les personnages, armes etc. le monde en soi.
-               
+- commencer par l'univers 3D. Modélisé les personnages, armes etc. le monde en soi.
+- après que le concept 3D a été établi, implimenter dans le jeu.
+- pour le monde d'interface dans la vie réelle, il faut crée l'interface qui ressemble à persona 5 et le menu de dark souls
+- enregister les voix
+- faire des essaies multiples sur le bruit, l'animation et les voix.
+
+post-production :
+- Envoyé le jeu pour la version Alpha.
+- corrigé ou enlever des mouvements
+- advertiser le jeu.
+- donner des récompenses au niveau aesthéthiques pour les gens qui essayent le jeu.
+
+operation :
+- corriger les commentaires de l'alpha.
+- donner un teaseur d'un dlc
+- pour le dlc, il faut aller en pré production.
+- faire une conférence de presse
+
+### conclusion :
+- ce qui rend le projet innovant est la double personalité. Nous avons un côté de super-héros,vilain, anti-héros mélangé avec une vie sociale. Ce jeu offre la possiblité d'être aussi très casuel.
+- La valeur de mon projet qui donne un coup à la concurence est que mon projet fonctionne pour la communauté de Dark Souls qui veulent un côté animation rempli de couleurs et de bosses mixes et un côté casuel pour les joeurs qui veulent juste s'asmuser sans que le jeu soit trop dure.
+- Ce qui attirait les investiteurs dans un kickstarter serait que (montre graphique powerpoint des ventes de elden ring avec les nombres de visionnages de sword art online) les gens sont vraiment attirés par le système de boss et les personnages de fiction. De plus, l'aspect de plusieurs clans apportent de la diversité sur comment nous voulons jouer.
