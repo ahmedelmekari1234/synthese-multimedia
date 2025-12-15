@@ -1,4 +1,4 @@
-# synthese_multimedia
+# Synthèse Multimédia
 
 ## présentation pour un Kickstarter
 
