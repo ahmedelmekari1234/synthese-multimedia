@@ -18,7 +18,7 @@
 
 *ÉLÉMENTS IMPORTANTS*
  
-1. le concept est un jeux vidéo où nous vivons dans un monde avec 2 dimensions, la vrai vie et un monde de fantaisie vers un univers de Dark Souls.
+1. le concept est un jeux vidéo où nous vivons dans un monde avec 2 dimensions, la vrai vie et un monde de fantaisie vers un univers de Dark Souls en terme de difficulté de bosses, mais dans un univers de pop vers persona 5.
 
 2. Dans premier monde de la vrai vie, nous incarperons le rôle d'un homme qui doit se faire de l'argent pour vivre. Un jeu de gestion. Dans l'autre vie, nous pouvons choisir dans quelles routes nous voulent prendre.
 
@@ -30,7 +30,7 @@
 
 6. Dans le monde de la vrai vie, le jeu sera en interface pour la géstion de notre vie. Il est un jeu à la persona 5.
 
-7. AU fur et à mesure de jouer dans le vrai monde. l'interface deviendra 2D.
+
 
 *CHOIX TECHNOLOGIQUES*
 
