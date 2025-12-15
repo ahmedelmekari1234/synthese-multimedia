@@ -1,8 +1,8 @@
 # synthese_multimedia
 
-## présentation proposition
+## présentation pour un Kickstarter
 
- ### Phrase choc : Premier à la couronne. 
+ ### Phrase choc : La bataille de la morale.
 
   
  ### Analyse de besoins
