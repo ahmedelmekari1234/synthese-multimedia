@@ -1,4 +1,4 @@
-# synthese-multimedia
+# synthese_multimedia
 
 ## présentation proposition
 
